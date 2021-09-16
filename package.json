@@ -48,14 +48,14 @@
     }
   ],
   "dependencies": {
-    "async": "*",
-    "base58-native": "*",
-    "big-integer": "^1.6.48",
+    "async": "^3.2.1",
+    "base58-native": "^0.1.4",
+    "big-integer": "^1.6.49",
     "bignum": "^0.13.1",
-    "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
-    "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
-    "promise": "*",
-    "sha3": "git+https://github.com/phusion/node-sha3.git"
+    "bitcoinjs-lib": "^5.2.0",
+    "merkle-bitcoin": "^1.0.2",
+    "promise": "^8.1.0",
+    "sha3": "^2.1.4"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
